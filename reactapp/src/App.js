@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import {getUserIpDetails} from "./functions/destructuring"
 function App() {
   return (
     <div className="App">
